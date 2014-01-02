@@ -144,3 +144,7 @@ For example, we can use "w" to jump to the next word and "b" to jump back one wo
     unbind Up bind Up new-window -d -n tmp \; swap-pane -s tmp.1 \; select-window -t tmp
     unbind Down
     bind Down last-window \; swap-pane -s tmp.1 \; kill-window -t tmp
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvind-naidu/tmux-shortcuts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
